@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ping Pong X</string>
+    <string name="label_start_game">Começar a partida</string>
+    <string name="developer">Desenvolvido por Carlos Mendes</string>
+    <string name="fill_fields">Preencher os campos</string>
+    <string name="start_app">Começar</string>
+
+</resources>
